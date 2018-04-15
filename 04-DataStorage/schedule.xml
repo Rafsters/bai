@@ -1,0 +1,165 @@
+<plan-zajec typ="G" id="109181" nazwa="KrDUIs1012" od="2018-04-15" do="2018-04-29">
+<okres od="2018-04-15" do="2018-04-29" nazwa="2018-04-15 do 2018-04-29" wybrany="tak"/>
+<okres od="2018-02-19" do="2018-09-30" nazwa="2018-02-19 do 2018-09-30"/>
+<okres od="2017-10-03" do="2018-02-18" nazwa="2017-10-03 do 2018-02-18"/>
+<zajecia>
+<termin>2018-04-16</termin>
+<dzien>Pn</dzien>
+<od-godz>13:05</od-godz>
+<do-godz>14:45</do-godz>
+<przedmiot>Bogate aplikacje internetowe</przedmiot>
+<typ>wykład</typ>
+<nauczyciel moodle="-218">dr Janusz Stal</nauczyciel>
+<sala>Bibl. 442</sala>
+</zajecia>
+<zajecia>
+<termin>2018-04-16</termin>
+<dzien>Pn</dzien>
+<od-godz>14:50</od-godz>
+<do-godz>16:25</do-godz>
+<przedmiot>Bogate aplikacje internetowe</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel moodle="-218">dr Janusz Stal</nauczyciel>
+<sala>Paw.A 115 lab. Win8, Office16</sala>
+</zajecia>
+<zajecia>
+<termin>2018-04-16</termin>
+<dzien>Pn</dzien>
+<od-godz>16:30</od-godz>
+<do-godz>18:05</do-godz>
+<przedmiot>Programowanie kreatywne</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel moodle="-899">dr hab. Wit Urban</nauczyciel>
+<sala>Paw.A 301a lab.win10 Office16</sala>
+</zajecia>
+<zajecia>
+<termin>2018-04-16</termin>
+<dzien>Pn</dzien>
+<od-godz>18:10</od-godz>
+<do-godz>19:45</do-godz>
+<przedmiot>J. obcy - grupa przedmiotów</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel>Językowe Centrum</nauczyciel>
+<sala/>
+</zajecia>
+<zajecia>
+<termin>2018-04-17</termin>
+<dzien>Wt</dzien>
+<od-godz>13:05</od-godz>
+<do-godz>14:45</do-godz>
+<przedmiot>Modelowanie i symulacja komputerowa</przedmiot>
+<typ>wykład</typ>
+<nauczyciel moodle="-899">dr hab. Wit Urban</nauczyciel>
+<sala>Paw.D sala 3</sala>
+</zajecia>
+<zajecia>
+<termin>2018-04-17</termin>
+<dzien>Wt</dzien>
+<od-godz>16:30</od-godz>
+<do-godz>18:05</do-godz>
+<przedmiot>Modelowanie i symulacja komputerowa</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel moodle="-899">dr hab. Wit Urban</nauczyciel>
+<sala>Paw.A 122 lab. Win7,Office2010</sala>
+</zajecia>
+<zajecia>
+<termin>2018-04-18</termin>
+<dzien>Śr</dzien>
+<od-godz>11:20</od-godz>
+<do-godz>13:00</do-godz>
+<przedmiot>Metody optymalizacji procesów</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel moodle="-2928">mgr Przemysław Jaśko</nauczyciel>
+<sala>Paw.A 115 lab. Win8, Office16</sala>
+</zajecia>
+<zajecia>
+<termin>2018-04-18</termin>
+<dzien>Śr</dzien>
+<od-godz>14:50</od-godz>
+<do-godz>16:25</do-godz>
+<przedmiot>Metody optymalizacji procesów</przedmiot>
+<typ>wykład</typ>
+<nauczyciel moodle="-1034">prof. UEK Paweł Lula</nauczyciel>
+<sala>Bibl. 441</sala>
+</zajecia>
+<zajecia>
+<termin>2018-04-18</termin>
+<dzien>Śr</dzien>
+<od-godz>16:30</od-godz>
+<do-godz>18:05</do-godz>
+<przedmiot>Marketing i handel elektroniczny</przedmiot>
+<typ>wykład</typ>
+<nauczyciel moodle="-908">dr Mariusz Kuziak</nauczyciel>
+<sala>Paw.B 151</sala>
+</zajecia>
+<zajecia>
+<termin>2018-04-19</termin>
+<dzien>Cz</dzien>
+<od-godz>16:30</od-godz>
+<do-godz>19:45</do-godz>
+<przedmiot>J. obcy - grupa przedmiotów</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel>Językowe Centrum</nauczyciel>
+<sala/>
+</zajecia>
+<zajecia>
+<termin>2018-04-23</termin>
+<dzien>Pn</dzien>
+<od-godz>14:50</od-godz>
+<do-godz>16:25</do-godz>
+<przedmiot>Bogate aplikacje internetowe</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel moodle="-218">dr Janusz Stal</nauczyciel>
+<sala>Paw.A 115 lab. Win8, Office16</sala>
+</zajecia>
+<zajecia>
+<termin>2018-04-23</termin>
+<dzien>Pn</dzien>
+<od-godz>16:30</od-godz>
+<do-godz>18:05</do-godz>
+<przedmiot>Programowanie kreatywne</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel moodle="-899">dr hab. Wit Urban</nauczyciel>
+<sala>Paw.A 301a lab.win10 Office16</sala>
+</zajecia>
+<zajecia>
+<termin>2018-04-23</termin>
+<dzien>Pn</dzien>
+<od-godz>18:10</od-godz>
+<do-godz>19:45</do-godz>
+<przedmiot>J. obcy - grupa przedmiotów</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel>Językowe Centrum</nauczyciel>
+<sala/>
+</zajecia>
+<zajecia>
+<termin>2018-04-24</termin>
+<dzien>Wt</dzien>
+<od-godz>18:10</od-godz>
+<do-godz>19:45</do-godz>
+<przedmiot>Marketing i handel elektroniczny</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel moodle="-908">dr Mariusz Kuziak</nauczyciel>
+<sala>Paw.B 151</sala>
+</zajecia>
+<zajecia>
+<termin>2018-04-25</termin>
+<dzien>Śr</dzien>
+<od-godz>11:20</od-godz>
+<do-godz>13:00</do-godz>
+<przedmiot>Metody optymalizacji procesów</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel moodle="-2928">mgr Przemysław Jaśko</nauczyciel>
+<sala>Paw.A 115 lab. Win8, Office16</sala>
+</zajecia>
+<zajecia>
+<termin>2018-04-26</termin>
+<dzien>Cz</dzien>
+<od-godz>16:30</od-godz>
+<do-godz>19:45</do-godz>
+<przedmiot>J. obcy - grupa przedmiotów</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel>Językowe Centrum</nauczyciel>
+<sala/>
+</zajecia>
+</plan-zajec>

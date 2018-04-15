@@ -1,0 +1,221 @@
+{
+  "plan-zajec": {
+    "-typ": "G",
+    "-id": "109181",
+    "-nazwa": "KrDUIs1012",
+    "-od": "2018-04-15",
+    "-do": "2018-04-29",
+    "okres": [
+      {
+        "-od": "2018-04-15",
+        "-do": "2018-04-29",
+        "-nazwa": "2018-04-15 do 2018-04-29",
+        "-wybrany": "tak"
+      },
+      {
+        "-od": "2018-02-19",
+        "-do": "2018-09-30",
+        "-nazwa": "2018-02-19 do 2018-09-30"
+      },
+      {
+        "-od": "2017-10-03",
+        "-do": "2018-02-18",
+        "-nazwa": "2017-10-03 do 2018-02-18"
+      }
+    ],
+    "zajecia": [
+      {
+        "termin": "2018-04-16",
+        "dzien": "Pn",
+        "od-godz": "13:05",
+        "do-godz": "14:45",
+        "przedmiot": "Bogate aplikacje internetowe",
+        "typ": "wykład",
+        "nauczyciel": {
+          "-moodle": "-218",
+          "#text": "dr Janusz Stal"
+        },
+        "sala": "Bibl. 442"
+      },
+      {
+        "termin": "2018-04-16",
+        "dzien": "Pn",
+        "od-godz": "14:50",
+        "do-godz": "16:25",
+        "przedmiot": "Bogate aplikacje internetowe",
+        "typ": "ćwiczenia",
+        "nauczyciel": {
+          "-moodle": "-218",
+          "#text": "dr Janusz Stal"
+        },
+        "sala": "Paw.A 115 lab. Win8, Office16"
+      },
+      {
+        "termin": "2018-04-16",
+        "dzien": "Pn",
+        "od-godz": "16:30",
+        "do-godz": "18:05",
+        "przedmiot": "Programowanie kreatywne",
+        "typ": "ćwiczenia",
+        "nauczyciel": {
+          "-moodle": "-899",
+          "#text": "dr hab. Wit Urban"
+        },
+        "sala": "Paw.A 301a lab.win10 Office16"
+      },
+      {
+        "termin": "2018-04-16",
+        "dzien": "Pn",
+        "od-godz": "18:10",
+        "do-godz": "19:45",
+        "przedmiot": "J. obcy - grupa przedmiotów",
+        "typ": "ćwiczenia",
+        "nauczyciel": "Językowe Centrum"
+      },
+      {
+        "termin": "2018-04-17",
+        "dzien": "Wt",
+        "od-godz": "13:05",
+        "do-godz": "14:45",
+        "przedmiot": "Modelowanie i symulacja komputerowa",
+        "typ": "wykład",
+        "nauczyciel": {
+          "-moodle": "-899",
+          "#text": "dr hab. Wit Urban"
+        },
+        "sala": "Paw.D sala 3"
+      },
+      {
+        "termin": "2018-04-17",
+        "dzien": "Wt",
+        "od-godz": "16:30",
+        "do-godz": "18:05",
+        "przedmiot": "Modelowanie i symulacja komputerowa",
+        "typ": "ćwiczenia",
+        "nauczyciel": {
+          "-moodle": "-899",
+          "#text": "dr hab. Wit Urban"
+        },
+        "sala": "Paw.A 122 lab. Win7,Office2010"
+      },
+      {
+        "termin": "2018-04-18",
+        "dzien": "Śr",
+        "od-godz": "11:20",
+        "do-godz": "13:00",
+        "przedmiot": "Metody optymalizacji procesów",
+        "typ": "ćwiczenia",
+        "nauczyciel": {
+          "-moodle": "-2928",
+          "#text": "mgr Przemysław Jaśko"
+        },
+        "sala": "Paw.A 115 lab. Win8, Office16"
+      },
+      {
+        "termin": "2018-04-18",
+        "dzien": "Śr",
+        "od-godz": "14:50",
+        "do-godz": "16:25",
+        "przedmiot": "Metody optymalizacji procesów",
+        "typ": "wykład",
+        "nauczyciel": {
+          "-moodle": "-1034",
+          "#text": "prof. UEK Paweł Lula"
+        },
+        "sala": "Bibl. 441"
+      },
+      {
+        "termin": "2018-04-18",
+        "dzien": "Śr",
+        "od-godz": "16:30",
+        "do-godz": "18:05",
+        "przedmiot": "Marketing i handel elektroniczny",
+        "typ": "wykład",
+        "nauczyciel": {
+          "-moodle": "-908",
+          "#text": "dr Mariusz Kuziak"
+        },
+        "sala": "Paw.B 151"
+      },
+      {
+        "termin": "2018-04-19",
+        "dzien": "Cz",
+        "od-godz": "16:30",
+        "do-godz": "19:45",
+        "przedmiot": "J. obcy - grupa przedmiotów",
+        "typ": "ćwiczenia",
+        "nauczyciel": "Językowe Centrum"
+      },
+      {
+        "termin": "2018-04-23",
+        "dzien": "Pn",
+        "od-godz": "14:50",
+        "do-godz": "16:25",
+        "przedmiot": "Bogate aplikacje internetowe",
+        "typ": "ćwiczenia",
+        "nauczyciel": {
+          "-moodle": "-218",
+          "#text": "dr Janusz Stal"
+        },
+        "sala": "Paw.A 115 lab. Win8, Office16"
+      },
+      {
+        "termin": "2018-04-23",
+        "dzien": "Pn",
+        "od-godz": "16:30",
+        "do-godz": "18:05",
+        "przedmiot": "Programowanie kreatywne",
+        "typ": "ćwiczenia",
+        "nauczyciel": {
+          "-moodle": "-899",
+          "#text": "dr hab. Wit Urban"
+        },
+        "sala": "Paw.A 301a lab.win10 Office16"
+      },
+      {
+        "termin": "2018-04-23",
+        "dzien": "Pn",
+        "od-godz": "18:10",
+        "do-godz": "19:45",
+        "przedmiot": "J. obcy - grupa przedmiotów",
+        "typ": "ćwiczenia",
+        "nauczyciel": "Językowe Centrum"
+      },
+      {
+        "termin": "2018-04-24",
+        "dzien": "Wt",
+        "od-godz": "18:10",
+        "do-godz": "19:45",
+        "przedmiot": "Marketing i handel elektroniczny",
+        "typ": "ćwiczenia",
+        "nauczyciel": {
+          "-moodle": "-908",
+          "#text": "dr Mariusz Kuziak"
+        },
+        "sala": "Paw.B 151"
+      },
+      {
+        "termin": "2018-04-25",
+        "dzien": "Śr",
+        "od-godz": "11:20",
+        "do-godz": "13:00",
+        "przedmiot": "Metody optymalizacji procesów",
+        "typ": "ćwiczenia",
+        "nauczyciel": {
+          "-moodle": "-2928",
+          "#text": "mgr Przemysław Jaśko"
+        },
+        "sala": "Paw.A 115 lab. Win8, Office16"
+      },
+      {
+        "termin": "2018-04-26",
+        "dzien": "Cz",
+        "od-godz": "16:30",
+        "do-godz": "19:45",
+        "przedmiot": "J. obcy - grupa przedmiotów",
+        "typ": "ćwiczenia",
+        "nauczyciel": "Językowe Centrum"
+      }
+    ]
+  }
+}

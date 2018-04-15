@@ -1,0 +1,133 @@
+{
+  "persons": {
+    "person": [
+      {
+        "name": "Jan",
+        "surname": "Kowalski",
+        "age": 29,
+        "gender": "male",
+        "email": "jankowalski@gmail.com",
+        "phone": {
+          "landline": 666777999,
+          "mobile": 222333444
+        },
+        "address": {
+          "street": "Kolorowa 34",
+          "postalCode": "34-666",
+          "city": "Kraków"
+        },
+        "interests": [
+          "eating",
+          "drinking",
+          "sleeping"
+        ],
+        "family": {
+          "spouse": {
+            "name": "Genowefa",
+            "surname": "Kowalska"
+          },
+          "children": {
+            "child": [
+              {
+                "name": "Tomek",
+                "surname": "Kowalski",
+                "age": 2,
+                "interests": "quantum physics"
+              },
+              {
+                "name": "Janina",
+                "surname": "Kowalska",
+                "age": 1,
+                "interests": "martial arts"
+              }
+            ]
+          }
+        }
+      }
+    , {
+        "name": "Adam",
+        "surname": "Malina",
+        "age": 19,
+        "gender": "male",
+        "email": "adam@gmail.com",
+        "phone": {
+          "landline": 634377999,
+          "mobile": 2223433444
+        },
+        "address": {
+          "street": "Abc 34",
+          "postalCode": "34-666",
+          "city": "Kraków"
+        },
+        "interests": [
+          "swimming",
+          "running",
+          "sleeping"
+        ],
+        "family": {
+          "spouse": {
+            "name": "Anna",
+            "surname": "Malina"
+          },
+          "children": {
+            "child": [
+              {
+                "name": "Grzegorz",
+                "surname": "Malina",
+                "age": 4,
+                "interests": "volleyball"
+              },
+              {
+                "name": "Ewa",
+                "surname": "Malina",
+                "age": 4,
+                "interests": "chemistry"
+              }
+            ]
+          }
+        }
+      }, {
+        "name": "Jarosław",
+        "surname": "Japko",
+        "age": 39,
+        "gender": "male",
+        "email": "jj@gmail.com",
+        "phone": {
+          "landline": 77877999,
+          "mobile": 243333444
+        },
+        "address": {
+          "street": "Ostania 3",
+          "postalCode": "34-666",
+          "city": "Kraków"
+        },
+        "interests": [
+          "sitting",
+          "standing",
+          "laying"
+        ],
+        "family": {
+          "spouse": {
+            "name": "Matylda",
+            "surname": "Japko"
+          },
+          "children": {
+            "child": [
+              {
+                "name": "Kamil",
+                "surname": "Japko",
+                "age": 5,
+                "interests": "boxing"
+              },
+              {
+                "name": "Grażyna",
+                "surname": "Japko",
+                "age": 5,
+                "interests": "surival"
+              }
+            ]
+          }
+        }
+      }]
+  }
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Data storage</title>
+</head>
+<script>
+ var person = {"name": "Jan",
+  "surname": "Kowalski",
+  "age": 29,
+  "gender": "male",
+  "email": "jankowalski@gmail.com",
+  "phone": {
+    "landline": 666777999,
+    "mobile": 222333444
+  },
+  "address": {
+    "street": "Kolorowa 34",
+    "postalCode": "34-666",
+    "city": "Kraków"
+  },
+  "interests": [
+    "eating",
+    "drinking",
+    "sleeping"
+  ],
+  "family": {
+    "spouse": {
+      "name": "Genowefa",
+      "surname": "Kowalska"
+    },
+    "children": {
+      "child": [
+        {
+          "name": "Tomek",
+          "surname": "Kowalski",
+          "age": 2,
+          "interests": "quantum physics"
+        },
+        {
+          "name": "Janina",
+          "surname": "Kowalska",
+          "age": 1,
+          "interests": "martial arts"
+        }
+      ]
+    }
+  }};
+  var json = JSON.stringify(person);
+        localStorage.setItem("person", json);
+        console.log(json);
+</script>
+<body>
+	Data Storage
+</body>
+
+</html>
